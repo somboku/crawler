@@ -14,8 +14,5 @@ if (defined $content) {
     die "Could not retrieve content from '$url'";
 }
 
-wie kann ich auf meine repo bei github zugreifen
 
-# To access your GitHub repository, you can use the GitHub API or Git commands.
-# Here is an example of how to clone a repository using Git commands in Perl:
-my $repo_url = ' 
+
